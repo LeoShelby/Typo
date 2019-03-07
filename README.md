@@ -7,3 +7,5 @@ There is also an animated Dragon which will make the game more fun.
 # Demo
 
 https://marcoschaerfcourses.github.io/Typo/
+
+This demo works only on Mozilla Firefox.
